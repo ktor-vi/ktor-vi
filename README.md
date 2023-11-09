@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ktor-vi
-- 👀 I’m interested in R, Rust and Haskell
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on DevOps and WebDevelopment ! 
+- 🌱 I’m currently learning C
+- 💞️ I’m a student at School 19 (42 Network) ! 
 - 📫 How to reach me : send me an email, me@ktorvi.me 
 
 <!---
